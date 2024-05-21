@@ -1,21 +1,21 @@
 
 # Laravel Socia Media
 
--Form Submission,Request
--Flash Messages
--Validation
--Pagination
--Model
--Creating comments
--Login & Logout
--Auth
--Profile
--Emails & Mail Trap
--Active Menu
--Admin Page
--Crud
--Dynamic localization
--Widgets
+- Form Submission,Request
+- Flash Messages
+- Validation
+- Pagination
+- Model
+- Creating comments
+- Login & Logout
+- Auth
+- Profile
+- Emails & Mail Trap
+- Active Menu
+- Admin Page
+- Crud
+- Dynamic localization
+- Widgets
 
  ### Built With
 
