@@ -39,7 +39,7 @@ composer install
 
 npm install 
 
-.env -> config datebase
+.env -> config database
 DB_DATABASE=
 DB_USERNAME=
 DB_PASSWORD=
