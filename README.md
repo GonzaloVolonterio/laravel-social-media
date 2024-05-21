@@ -47,4 +47,14 @@ DB_PASSWORD=
 php artisan migrate
 
 ```
+![5](https://github.com/GonzaloVolonterio/laravel-social-media/assets/64506662/a8c7db58-00d5-4641-9513-8661afae5282)
+
+![1](https://github.com/GonzaloVolonterio/laravel-social-media/assets/64506662/fdda7254-deae-46ec-aa9c-a3f439e2417e)
+
+![2](https://github.com/GonzaloVolonterio/laravel-social-media/assets/64506662/89d8b0b6-ffee-4974-8b85-a8471ba31d7b)
+
+![4](https://github.com/GonzaloVolonterio/laravel-social-media/assets/64506662/2445343e-a90f-4921-ba99-252eee2917b1)
+
+
+
 
