@@ -30,6 +30,8 @@ Tailwind
 ```
 https://github.com/GonzaloVolonterio/laravel-social-media
 
+```
+
 ### Install🔧
 
 ```
